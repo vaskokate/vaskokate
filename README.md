@@ -91,6 +91,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
+
+Проект Auto.ae 
 [<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/vaskokate/vaskokate/refs/heads/main/internship.png)
 
 <br>
