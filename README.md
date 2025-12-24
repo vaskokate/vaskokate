@@ -62,9 +62,9 @@
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
 
 </div>
 
