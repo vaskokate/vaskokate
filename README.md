@@ -122,7 +122,7 @@
 
 - покрытие регрессии сайта e2e‑автотестами на JavaScript (Cypress) — https://github.com/vaskokate/cypress-auth-and-recovery-tests;
 
-- покрытие регрессии API автотестами на Python (Pytest и Requests) — [ссылка].
+- покрытие регрессии API автотестами на Python (Pytest и Requests) — https://github.com/vaskokate/python-pytest-requests.
 
 ## Тестирование API и интеграций
 <div>
