@@ -23,7 +23,8 @@
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
-## Технические навыки и опыт работы
+
+## ⭐ Технические навыки и опыт работы
 
 ##### 1. Протоколы и архитектура
 
