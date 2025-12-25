@@ -120,7 +120,7 @@
 
 ##### 11. Автоматизация тестирования
 
-- покрытие регрессии сайта e2e‑автотестами на JavaScript (Cypress) — [ссылка];
+- покрытие регрессии сайта e2e‑автотестами на JavaScript (Cypress) — https://github.com/vaskokate/cypress-auth-and-recovery-tests;
 
 - покрытие регрессии API автотестами на Python (Pytest и Requests) — [ссылка].
 
