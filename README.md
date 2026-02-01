@@ -223,6 +223,7 @@
 
 ## 🎒 Образование
 [<img src="/certificate_junior.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vaskokate/vaskokate/refs/heads/main/certificate_junior.png)
+[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/vaskokate/vaskokate/refs/heads/main/recommendation.png)
 
 <br>
 <br>
