@@ -177,56 +177,8 @@
 
 </div>
 
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
+<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons -->
 
-<br>
-
-## 🪴 Практика и стажировка
-
-### ⭐ Проект Auto.ae
-
-#### Моя зона ответственности
-##### 1. Тестирование:
-
-- провела исследовательское тестирование нового функционала
-
-- протестировала десктопную версию сайта в браузерах: Google Chrome, Яндекс Браузер
-
-##### 2. Документация и анализ:
-
-- составила чек‑лист в Miro для новой фичи «Поиск объявлений авто в новых странах»
-
-- оформила 10 баг‑репортов в Buildin
-
-- провела ревью баг‑репортов коллег‑тестировщиков
-
-##### 3. Выявление и сопровождение дефектов:
-
-- обнаружила более 10 багов (проблемы с локализацией, вёрсткой и новой функциональностью)
-
-- документировала баги с подробными комментариями и шагами воспроизведения
-
-- передавала информацию о дефектах в рабочий Telegram‑чат команды тестировщиков
-
-##### 4. Коммуникация и координация:
-
-- участвовала в ежедневных созвонах с командой тестирования
-
-- присутствовала на финальном созвоне с разработчиками
-
-#### Используемые инструменты: Buildin, DevTools, Miro, Figma
-
-[<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/vaskokate/vaskokate/refs/heads/main/internship.png)
-
-
-<br>
-
-## 🎒 Образование
-[<img src="/certificate_junior.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vaskokate/vaskokate/refs/heads/main/certificate_junior.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/vaskokate/vaskokate/refs/heads/main/recommendation.png)
-
-<br>
-<br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:vaskokate17@gmail.com)
