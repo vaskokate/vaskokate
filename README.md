@@ -118,12 +118,6 @@
 
 - проверка PUSH‑сообщений и функционала диплинок.
 
-##### 11. Автоматизация тестирования
-
-- покрытие регрессии сайта e2e‑автотестами на JavaScript (Cypress) — https://github.com/vaskokate/cypress-auth-and-recovery-tests;
-
-- покрытие регрессии API автотестами на Python (Pytest и Requests) — https://github.com/vaskokate/python-pytest-requests.
-
 ## Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
